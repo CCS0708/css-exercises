@@ -93,3 +93,12 @@ button.cancel {
 .text {
   margin-bottom: 16px;
 }
+
+
+
+/* for comparison */
+.solution {
+  position: fixed;
+  bottom: 0;
+  
+}
